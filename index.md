@@ -4,21 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently student of Master of Philosophy (MPhil) in Computer Science and Engineering at The Hong Kong University of Science and Technology. My current research is focused on Blockchain and Smart-Contracts.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
+- **Blockchain:** Smart-Contracts, Layer 2 Solutions
+<!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-## Publications
+<!-- ## Publications
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -47,4 +45,4 @@ I am a Ph.D. student at ...
 ## Services
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Journal Reviewers: T-PAMI, IJCV. -->
